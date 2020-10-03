@@ -1,0 +1,22 @@
+@font-face{
+	font-family: 'Play Fair';
+	src: url('../assets/fonts/PlayfairDisplay-Regular.ttf');
+}
+.msgError{
+	padding: 4px;
+	color: red;
+	font-size: 1.1em;
+	margin-top: 5px;
+	border-radius: 8px;
+	margin-bottom: 0;
+}
+.msgErrorNode{
+	text-align: center;
+	padding: 4px 8px;
+	color: red;
+	font-size: 1.1em;
+	width: 100%;
+	background-color: rgba(182, 178, 178, 0.123);
+	margin-top: 5px;
+	border-radius: 8px;
+}
